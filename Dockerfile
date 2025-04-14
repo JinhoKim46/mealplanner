@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
     libpq-dev \
     chromium \
     chromium-driver \
+    git \
     && rm -rf /var/lib/apt/lists/*
 
 # 4. 의존성 설치
