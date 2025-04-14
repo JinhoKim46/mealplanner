@@ -1,3 +1,6 @@
 # vscode
 .vscode/
 .devcontainer/
+
+# python cache
+**/__pycache__/
