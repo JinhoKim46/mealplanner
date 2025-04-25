@@ -1,26 +1,29 @@
-# 웹 크롤링 관련
-requests
-beautifulsoup4
-lxml
-
-# JS 렌더링이 필요한 경우
-selenium
-webdriver-manager
-
-# (선택) 크롤링 로그, 디버깅용
-tqdm
-
-# FastAPI 및 DB
+# FastAPI & DB
 fastapi
 uvicorn[standard]
 sqlalchemy
 psycopg2-binary
 python-dotenv
 
-# 크롤링 관련
+# Crawling & Scraping
 requests
 beautifulsoup4
 lxml
 selenium
 webdriver-manager
 tqdm
+selenium
+webdriver-manager
+
+# Aalyzing flyer
+pytesseract
+opencv-python
+pillow
+numpy
+matplotlib
+
+# Unit testing
+pytest
+
+# Developmenting
+jupyter
